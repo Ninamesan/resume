@@ -1,0 +1,42 @@
+body{
+background-color: #FFF5E0;
+font-family: 'Dancing Script', cursive;
+font-family: 'Domine', serif;
+  color: #403D38;
+}
+h1{
+ font-size:60px;
+  
+}
+h2{
+  font-size:40px;
+}
+h3{
+  font-size:50px;
+}
+h5{
+font-size:35px;
+}
+p{
+  font-size:25px;
+}
+.myRating{
+  color:#406694;
+}
+.mySpace{
+  text-indent:10px;
+}
+.myborder{
+  border: solid;
+  border-radius: 25px;
+  border-color:#406694;
+ 
+}
+.checked{
+color: orange;}
+.navtext{
+  color: #FFF5E0;
+}
+.myhr{
+  border-bottom:3px solid #BFB8A8; 
+}
