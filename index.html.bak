@@ -15,7 +15,8 @@
     <div class="container">
       <div class="row">
         <nav class="navbar navbar-expand-lg" style="background-color: #403D38;">
-          <div class="container-fluid"> <a class="navbar-brand" href="#"></a>&nbsp;
+          <div class="container-fluid"> 
+            <a class="navbar-brand" href="#"></a>&nbsp;
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
 
               data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
@@ -48,7 +49,6 @@
             <br>
             Name: Mild Thongyou<br>
             <br>
-            Student id: 640510588<br><br> 
             Date of brith: 17 April 2003 <br>
             <br>
             Age: 20</p>
@@ -260,6 +260,5 @@
 integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 
 crossorigin="anonymous"></script>
-    
   </body>
 </html>
