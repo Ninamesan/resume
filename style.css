@@ -1,0 +1,21 @@
+body{background-color: #FFF5E0;
+}
+h2{
+ text-align: center;
+  
+}
+h1{
+  text-align: center;
+ 
+}
+progress::-webkit-progress-bar {
+   background-color: white;
+}
+progress::-webkit-progress-value {
+   background-color: #406694;
+}
+.myborder{
+  border: solid;
+  border-radius: 25px;
+ 
+}
