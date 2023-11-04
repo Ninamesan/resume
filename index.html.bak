@@ -9,6 +9,7 @@
       crossorigin="anonymous">
     <meta name="description" content="Hi, I'm Mild Thongyou and this is Mild's Resume">
     <meta name="keywords" content="Mild Thongyou,Resume,Portfolio">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
   </head>
   <body>
     <div class="container">
